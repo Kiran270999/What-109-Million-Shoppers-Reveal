@@ -1,0 +1,12 @@
+data/
+logs/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.DS_Store
+spark-warehouse/
+derby.log
+metastore_db/
+jars/*.jar
+outputs/analysis*/
